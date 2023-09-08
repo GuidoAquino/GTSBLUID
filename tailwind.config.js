@@ -8,6 +8,8 @@ module.exports = {
   ],
   theme: {
     screens: {
+      'xsm':'(min-width: 375px)',
+      // <= @media (max-width: 375px) { ... }
       'sm': '640px',
       // => @media (min-width: 640px) { ... }
 
@@ -33,4 +35,5 @@ module.exports = {
     require('flowbite/plugin'),
        
   ],
+
 }

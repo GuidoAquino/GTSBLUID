@@ -6,7 +6,8 @@
       "imgfondo": "https://i.pinimg.com/originals/37/cf/24/37cf24af3c59dbda5991ccaf0f40d33c.jpg",
       "imglogo": "https://360agenciainmobiliaria.com/sell_btn_1.png",
       "textodescripcion": "Miami es conocida como el paraiso de comprar de eletroeletronicos y grifes de moda, pero también ofrece lugares para comprar de perfumes, brinquedos, instrumentos musicales, maquinas fotograficas y mucho más.",
-      "precio": "150000"
+      "precio": 150000,
+      "quantity": 0
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "imgfondo": "https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900",
       "imglogo": "https://static.vecteezy.com/system/resources/previews/017/333/848/original/cartoon-sticker-of-the-eiffel-tower-in-paris-france-free-png.png",
       "textodescripcion": "Es un destino icónico, impregnado de romance y creatividad. La ciudad despliega arquitectura elegante y una amplia gama de experiencias culturales, atrapando a cada visitante en su cautivador encanto.",
-      "precio": "80000"
+      "precio": 181222,
+      "quantity": 0
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "imgfondo": "https://i.pinimg.com/1200x/fe/d6/73/fed673f91ee4e478477f0441a33c174d.jpg",
       "imglogo": "https://static.vecteezy.com/system/resources/previews/009/930/731/original/big-ben-london-graphic-element-illustration-png.png",
       "textodescripcion": "Es una ciudad importante en todo el mundo debido al poder económico y también, y principalmente, a que se encuentra repleta de encantos que visitar y posee cultura impactante",
-      "precio": "170000"
+      "precio": 170000,
+      "quantity": 0
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "imgfondo": "https://dam.ngenespanol.com/wp-content/uploads/2021/11/GettyImages-1297090032.jpg",
       "imglogo": "https://images.vexels.com/media/users/3/176129/isolated/lists/ac8749bdabab6e7fc0396aca940d300b-pegatina-madrid-viva-madrid.png",
       "textodescripcion": "Es un destino fascinante, lleno de historia y cultura vibrante. La ciudad ofrece monumentos emblemáticos y una vida nocturna vibrante, brindando una experiencia enriquecedora para todos los visitantes.",
-      "precio": "150000"
+      "precio": 150000,
+      "quantity": 0
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "imgfondo": "https://cadenaser.com/resizer/x2hv6yREAQZXIDLPZ4jVkW4b914=/736x414/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/7EEI37Z2SJIB5BXPDXH7COMX2I.jpg",
       "imglogo": "https://cdn-icons-png.flaticon.com/512/6406/6406922.png",
       "textodescripcion": "Capital de Rusia, es una de las ciudades más septentrionales del mundo. Constituye un importante centro político, económico y cultural del país y del continente. Su población asciende a los 11.503.501 habitantes.",
-      "precio": "80000"
+      "precio": 80000,
+      "quantity": 0
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "imgfondo": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/12/20/16715363338279.jpg",
       "imglogo": "https://www.acrasa.com/assets/images/logoPie.png",
       "textodescripcion": "Es un destino cautivador, saturado de historia y pasión. La ciudad ostenta arquitectura sorprendente y una rica variedad de experiencias culturales, sumergiendo a cada visitante en un encanto inigualable.",
-      "precio": "170000"
+      "precio": 170000,
+      "quantity": 0
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "imgfondo": "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/burj-al-arab-jumeirah/hero/burj-al-arab-profile-exterior_6-4_landscape.jpg?h=800&w=1200",
       "imglogo": "https://cdn-icons-png.flaticon.com/256/3349/3349359.png",
       "textodescripcion": "Es un destino único, lleno de opulencia y modernidad. La ciudad ostenta arquitectura futurista y una variedad de experiencias culturales, cautivando a cada visitante con su esplendor singular.",
-      "precio": "150000"
+      "precio": 150000,
+      "quantity": 0
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "imgfondo": "https://dam.melia.com/melia/accounts/f8/4000018/projects/127/assets/8e/71078/1d918976ab9c7cb3d08032fbcfbd9e23-1639123945.jpg?fp=1771.5,1328.5&width=2000&height=1500",
       "imglogo": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/mhdodkYlrgmnkoI",
       "textodescripcion": "Es un paraíso tropical, repleto de playas de ensueño y diversión. El destino ofrece actividades emocionantes y una cultura caribeña vibrante, atrayendo a cada visitante a un oasis de relajación y aventura.",
-      "precio": "80000"
+      "precio": 80000,
+      "quantity": 0
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "imgfondo": "https://media.istockphoto.com/id/914814224/es/foto/por-la-noche-en-amsterdam.jpg?s=612x612&w=0&k=20&c=2PJw_dFXZPB4RV1lI3eVLUKgP4YrJirWCyk0zDIkkDE=",
       "imglogo": "https://images.vexels.com/media/users/3/175772/isolated/lists/9ef1c30ee753ccecd30c7942fc4d3a25-viaje-de-amsterdam-a-amsterdam-pegatina.png",
       "textodescripcion": "Es un lugar encantador, impregnado de encanto y cultura. La ciudad despliega arquitectura pintoresca y una diversidad de experiencias culturales, cautivando a cada visitante con su atmósfera distintiva y relajada.",
-      "precio": "170000"
+      "precio": 170000,
+      "quantity": 0
     },
     {
       "id": 10,
@@ -78,7 +87,9 @@
       "imgfondo": "https://media.istockphoto.com/id/1019187020/es/foto/el-r%C3%ADo-spree-en-berl%C3%ADn.jpg?s=612x612&w=0&k=20&c=zjq5CDmVhAW_WU8VaAQllmWYU285gy4Kvdufk-8Rop4=",
       "imglogo": "https://i.pinimg.com/originals/9d/89/cf/9d89cf140d4c73faba3c9992fd89ea87.png",
       "textodescripcion": "Es un enclave cosmopolita, lleno de historia y creatividad. La ciudad exhibe arquitectura diversa y una vibrante escena cultural, atrapando a cada visitante en su mezcla única de tradición y modernidad.",
-      "precio": "170000"
+      "precio": 170000,
+      "quantity": 0
+      
     }
   ]
 }

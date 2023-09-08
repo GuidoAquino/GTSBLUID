@@ -2,23 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Vithkuqi&family=Roboto:ital,wght@0,400;0,700;1,900&display=swap');
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-    background-color: linear-gradient(90deg, #03c3ec 0%, #fbd5d5 42%);
-    ;
-  }
-}
 
 @font-face {
   font-family: "letra1";
@@ -29,10 +13,8 @@
 
 * {
   font-family: "letra1", sans-serif;
-
   scroll-behavior: smooth;
-
-  overflow-x: "hidden"
+  overflow-x: "hidden";
 }
 
 body {
@@ -40,6 +22,19 @@ body {
   background: linear-gradient(to bottom,
       transparent,
       rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+  color: white;
+
+  padding-right: 0 !important;
+}
+
+.css-i104bv87-MuiSvgIcon-root {
+  /* remove items cart*/
+  width: 20px !important;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  /* add items cart */
+  width: 20px !important;
 }
 
 .slick-track {
@@ -59,6 +54,7 @@ body {
   .slick-track {
     left: 0 !important;
   }
+
 }
 
 .slick-dots li.slick-active button:before {
@@ -97,4 +93,74 @@ body::-webkit-scrollbar-thumb {
 
 
 
+}
+
+@media (max-width: 767px) {
+  .cart-container {
+    font-size: .6rem;
+    padding: .8rem !important;
+    width: 100% !important;
+    height: 600px !important;
+  }
+}
+
+@media (max-width: 396px) {
+  .eliminartexto {
+    position: absolute;
+    visibility: hidden;
+  }
+
+}
+@media (max-width: 407px) {
+  .container-cart {
+    width: 360px !important;
+  }
+}
+
+@media (min-width: 407px) and (max-width: 660px) {
+  .container-cart {
+    width: 400px !important;
+  }
+}
+
+
+@media (max-width: 396px) {
+  .imagencarrito {
+    position: absolute;
+    visibility: hidden;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .menu-mobile {
+    display: flex;
+    flex-direction: column;
+    margin-top: -15px;
+    
+ 
+  }
+
+}
+
+@media (max-width: 918px) {
+  .link-mobile {
+    padding: 5px;
+    font-size: 20px;
+  }
+
+}
+@media (max-width: 858px) {
+  .link-mobile {
+    padding: 4px;
+    font-size: 17px;
+    
+  }
+  .logogst{
+    padding: 2px;
+    margin-left: -2px;
+  }
+  .btn-carrito{
+    margin-right: -2px;
+  }
 }

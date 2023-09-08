@@ -2,11 +2,17 @@ import React from "react";
 
 const About = () => {
   return (
-    <section
+    <section 
       id="about"
-      className="bg-gradient-to-r font-bold from-red-400 to-red-200 p-4 dark:bg-gray-900"
-      style={{ boxShadow: "box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;" }}
-    >
+      className=" p-5 "
+      style={{
+  boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+  backgroundRepeat: "no-repeat",
+  backgroundSize: "cover",
+  backgroundPosition:"center",
+  backgroundAttachment:"fixed",
+  backgroundImage: 'url("https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80")'
+}}>
       <div className="px-4 py-4 sm:px-6 lg:col-span-6 lg:px-8">
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 items-center">
           <div className="bg-fixed mb-12 lg:mb-0 order-last lg:order-first">
@@ -17,7 +23,7 @@ const About = () => {
             />
           </div>
           <div className="text-center lg:text-left">
-            <div className="relative block p">
+            <div className="relative block">
               <h2 className="text-md uppercase tracking-wide text-white-900 text-center text-4xl dark:text-gray-600">
                 SOBRE NOSOTROS
               </h2>
